@@ -17,3 +17,8 @@
 
 # 데이터 수집
 [트위터 크롤링](https://happy-chipmunk.tistory.com/43)
+
+
+---
+# 참고 문헌
+[트위터 감정 분석](https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/conference/ack2022/presentation/KIPS_C2022B0183.pdf)
