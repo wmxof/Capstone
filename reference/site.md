@@ -12,3 +12,8 @@
 [참고용 유튜브](https://www.youtube.com/watch?app=desktop&v=dlfsyeSA44Q)
 
 [일기를 통한 음악 추천 챗봇](https://github.com/yb8350/OnrestChatbot)
+
+---
+
+# 데이터 수집
+[트위터 크롤링](https://happy-chipmunk.tistory.com/43)
