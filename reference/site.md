@@ -4,6 +4,11 @@
 
 [한글 bert 네이버 감성분석 90% 달성하기](https://github.com/kimwoonggon/publicservant_AI/blob/master/2_(Hugging%2B%ED%95%9C%EA%B8%80BERT)%EB%84%A4%EC%9D%B4%EB%B2%84%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%2090%25%20%EB%8B%AC%EC%84%B1%ED%95%98%EA%B8%B0.ipynb)
 
+[KoBERT 유튜브 댓글 논문](https://www.manuscriptlink.com/society/kips/conference/ask2022/file/downloadSoConfManuscript/abs/KIPS_C2022A0063
+![image](https://github.com/wmxof/Capstone/assets/108640363/bf5e856f-9d0c-41b9-8c53-4c9b07ba6f84)
+)
+[KIPS_C2022A0063.pdf](https://github.com/wmxof/Capstone/files/14654337/KIPS_C2022A0063.pdf)
+
 ---
 
 # 노래 추천
