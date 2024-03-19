@@ -23,6 +23,12 @@
 # 데이터 수집
 [트위터 크롤링](https://happy-chipmunk.tistory.com/43)
 
+[캐글 트위터 감정 분류](https://www.kaggle.com/code/shtrausslearning/twitter-emotion-classification)
+
+[캐글 BERT를 이용한 텍스트 감정 분류](https://www.kaggle.com/code/praveengovi/classify-emotions-in-text-with-bert)
+
+[캐글 감정 분석(16가지)](https://www.kaggle.com/discussions/general/157189)
+
 
 ---
 # 참고 문헌
